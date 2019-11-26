@@ -1,15 +1,16 @@
-# Word-Guess-Game
-THIS IS A HANGMAN GAME.
-PLAY HANGMAN!
-THIS HAS A WARFRAME THEME.
-WARFRAME IS A VIDEO GAME.
-THIS APP WILL GIVE YOU A HIDDEN WORD TO GUESS.
-IT WILL PLAY SOUNDS DEPENDING ON WHAT YOU PRESSED.
-IT TRACKS YOUR WINS AND LOSSES TOO.
-FOR EACH LETTER YOU GET RIGHT IT WILL PUT THE CORRECT LETTER IN THE SPACE.
-IF IT IS WRONG IT WILL PLACE THE LETTER IN THE INCORRECT LETTER SPOT.
-IF YOU ALREADY GUESSED A LETTER, THERE IS NO PENALTY BUT THE GAME WILL PLAY A THUD NOISE TO LET YOU KNOW YOU ALREADY GUESSED IT.
-SOUND WILL PLAY FOR CORRECT AND INCORRECT GUESSES TOO.
-IN MY OPINION THIS IS MY MOST WELL BUILT APP.
-IT IS SIMPLE, BUT STILL COOL!
+Word Guess
+This is a hangman style game where the user is shown a set of blanks with an image. They are to guess the word by using the number of blanks present and the image as hints. If the user gets the letter right, it goes in the blanks, if its wrong a sond is played and they see that they got it wrong. There is a counter for wrong guesses as well. It will not count against the user if they already guessed the letter.
+
+Getting Started
+You only need the deployed link and your browser.
+
+Prerequisites
+No installation, no console
+
+Deployment
+Access repo, go to settings, generate link.
+
+Author
+Ben Williams
+
 https://bones2421.github.io/Word-Guess-Game.bones2421.github.io/
